@@ -1,4 +1,4 @@
-#Data Science Udacity Nanodegree 
+# Data Science Udacity Nanodegree 
 
 ## 1. Installations
 
@@ -29,7 +29,7 @@ In the end, some of the business questions that we want to answer in the end is:
 
 ### - Which feature influences more the price? And the review scores?
 
-And you will find with (more details) that For the end, have a nice kitchen will certainly surprise the hosts and deliver a very good experience 
+And you will find, with more details, that For the end, have a nice kitchen will certainly surprise the hosts and deliver a very good experience 
 for them. Also the commitment of the host is something that can change everything, answer hosts' questions and as soon as possible. 
 And finally, choose wisely the number of rooms, this will certainly influence the price. :)
 
