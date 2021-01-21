@@ -43,7 +43,10 @@ the analysis done.
 To interact with the code you will need to open the .ipynb file with an IDE of your preference, which can be Anaconda Jupyter Notebook or 
 even the Visual Code Studio.
 
-## 5. Author
+## 5. License
+Code released under the MIT License, https://github.com/twbs/bootstrap/blob/main/LICENSE.
+
+## 6. Author
 This project was created by Adilson Vital 
 Linkedin: https://www.linkedin.com/in/adilsonvital/
 Personal: http://adilsonvital.me/
