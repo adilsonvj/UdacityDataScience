@@ -1,4 +1,5 @@
-#Data Science Udacity Nanodegree 
+
+# Data Science Udacity Nanodegree 
 
 ## 1. Installations
 
@@ -29,7 +30,7 @@ In the end, some of the business questions that we want to answer in the end is:
 
 ### - Which feature influences more the price? And the review scores?
 
-And you will find with (more details) that For the end, have a nice kitchen will certainly surprise the hosts and deliver a very good experience 
+And you will find, with more details, that For the end, have a nice kitchen will certainly surprise the hosts and deliver a very good experience 
 for them. Also the commitment of the host is something that can change everything, answer hosts' questions and as soon as possible. 
 And finally, choose wisely the number of rooms, this will certainly influence the price. :)
 
@@ -43,7 +44,10 @@ the analysis done.
 To interact with the code you will need to open the .ipynb file with an IDE of your preference, which can be Anaconda Jupyter Notebook or 
 even the Visual Code Studio.
 
-## 5. Author
+## 5. License
+Code released under the MIT License, https://github.com/twbs/bootstrap/blob/main/LICENSE.
+
+## 6. Author
 This project was created by Adilson Vital 
 Linkedin: https://www.linkedin.com/in/adilsonvital/
 Personal: http://adilsonvital.me/
